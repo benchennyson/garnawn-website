@@ -1,0 +1,20 @@
+.swiper-pagination {
+  bottom: 0.5rem !important;
+  padding-bottom: 1rem;
+}
+
+.swiper-pagination-bullet {
+  background: #2c86c3;
+}
+
+.swiper-scrollbar {
+  bottom: 0rem !important;
+}
+
+.navigation-buttons {
+  top: calc(50% - 3.5rem);
+}
+
+.swiper {
+  padding-bottom: 4rem;
+}

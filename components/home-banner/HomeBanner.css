@@ -1,0 +1,12 @@
+.banner-title {
+  background: -webkit-linear-gradient(left, #00548d, #68b2e4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding: 0.5rem 0;
+}
+
+@media (min-width: 1024px) {
+  .banner-title {
+    padding: 0.75rem 0;
+  }
+}
